@@ -1,0 +1,27 @@
+.first{
+padding-right: 50px;
+}
+p{
+    font-size:15px;
+    padding-right: 50px;
+    word-spacing: 20px;
+    color: green;
+}
+button{
+    background-color: rgb(46, 152, 117);
+    color: white;
+}
+h3{
+    color:rgb(1, 146, 98);
+}
+*{
+    text-align: center;
+}
+#block{
+    background-color: rgb(201, 249, 233);
+}
+div{
+    height:200px;
+    width: 400px;
+    text-align: center;
+}
